@@ -1,0 +1,6 @@
+INSERT INTO public.marina_types (key, value, icon_key) VALUES
+('marina', 'Marina', 'boatYard'),
+('services', 'Services', 'boatYard'),
+('repair', 'Repair', 'boatYard'),
+('ferry', 'Ferry', 'boatYard'),
+('harbour', 'Harbour', 'boatYard');

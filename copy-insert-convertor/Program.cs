@@ -7,8 +7,8 @@ class Program
 {
     static void Main()
     {
-        string inputFilePath = "input.txt"; // Path to your input file
-        string outputFilePath = "output.sql"; // Path to your output file
+        string inputFilePath = "/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/input.txt"; // Path to your input file
+        string outputFilePath = "/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/output.txt"; // Path to your output file
 
         // Read the input file
         string[] lines = File.ReadAllLines(inputFilePath);

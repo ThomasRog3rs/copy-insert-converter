@@ -1,0 +1,7 @@
+COPY public.marina_types (key, value, icon_key) FROM stdin;
+marina	Marina	boatYard
+services	Services	boatYard
+repair	Repair	boatYard
+ferry	Ferry	boatYard
+harbour	Harbour	boatYard
+\.

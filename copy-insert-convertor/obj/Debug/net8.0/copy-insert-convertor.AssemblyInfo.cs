@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("copy-insert-convertor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c8b474aabd818449b2bdb62dafcdad6118511dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+337963634b8c3a539ba48dc5c47f6ac2a446915d")]
 [assembly: System.Reflection.AssemblyProductAttribute("copy-insert-convertor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("copy-insert-convertor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
