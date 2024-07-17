@@ -1,0 +1,15 @@
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/bin/Debug/net8.0/copy-insert-convertor
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/bin/Debug/net8.0/copy-insert-convertor.deps.json
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/bin/Debug/net8.0/copy-insert-convertor.runtimeconfig.json
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/bin/Debug/net8.0/copy-insert-convertor.dll
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/bin/Debug/net8.0/copy-insert-convertor.pdb
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.AssemblyInfoInputs.cache
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.AssemblyInfo.cs
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.csproj.CoreCompileInputs.cache
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.sourcelink.json
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.dll
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/refint/copy-insert-convertor.dll
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.pdb
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/copy-insert-convertor.genruntimeconfig.cache
+/home/tom/Documents/source/copy-insert-converter/copy-insert-convertor/obj/Debug/net8.0/ref/copy-insert-convertor.dll
